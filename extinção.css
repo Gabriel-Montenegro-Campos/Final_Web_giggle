@@ -1,0 +1,63 @@
+#intro {
+	color:yellow;
+	background-color: grey;
+	font-family: cursive;
+	/*background-size: 1500px;*/
+}
+
+body{
+	 font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	 background-color: rgb(163, 200, 180);
+}
+
+a:hover{
+	color: red;
+	display: 
+}
+nav {
+	padding: 1px 300px;
+	min-width: 500px;
+}
+nav ul{
+	background: linear-gradient(90deg,
+		rgba(148,123,84,1) 50%,
+		rgba(24,25,21,0.2) 25%
+		rgba(25,5,55,0.2) 75%
+		rgba(25,55,2,0) 100%);
+		box-shadow: 0 0 25px rgba(0,0,255,20)
+		inset 0 0 1px rgba(25,35, 12, 0.6);
+}
+nav ul li{
+	display: inline-block;
+}
+nav ul li a{
+	text-align: center;
+	padding: 10px;
+	color: rgb(0,0,0);
+	font-family: fantasy;
+	font-size: 18px;
+	text-decoration: none;
+	display: block;
+}
+
+p.under{
+	text-decoration: underline;
+}
+
+img_animal.floating{
+	float: right;
+}
+
+form {
+    /* Apenas para centralizar o form na página */
+    margin: 0 auto;
+    width: 400px;
+    /* Para ver as bordas do formulário */
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+
+.navegação{
+	font-family: cursive;
+}
